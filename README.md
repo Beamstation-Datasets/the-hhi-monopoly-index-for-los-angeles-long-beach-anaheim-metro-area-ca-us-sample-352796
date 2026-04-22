@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Los Angeles-Long Beach-Anaheim Metro Area, CA, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `352796` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 275 records |
-| Free sample size | 27 records (9.82%) |
-| Last export | 2026-04-15T05:37:39.576633+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-22T11:24:55.218659+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-352796/releases/download/sample-latest/beamstation_352796_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
