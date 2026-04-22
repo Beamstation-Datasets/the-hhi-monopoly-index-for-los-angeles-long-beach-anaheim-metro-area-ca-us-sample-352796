@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7bd3d649-78a7-41ba-8210-55a57d0b5ecf",
+  "export_job_id": "af05bd40-eb95-46f1-895d-9c84a046bcfb",
   "id_short": 352796,
-  "published_at": "2026-04-18T07:56:10Z",
+  "published_at": "2026-04-22T19:36:39Z",
   "repo_name": "the-hhi-monopoly-index-for-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-352796",
   "sample_asset_name": "beamstation_352796_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/352796/beamstation_352796_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "8bf40328f954730e4db58e58a96202c53431bf3b18a5a89a8a672beb64329772",
-  "sample_size_bytes": 125529,
-  "total_records": 275
+  "sample_records": 25,
+  "sample_sha256": "b667276d8038e18cdad5c1b1aabbe2b222300c81492b1501bc4af06b1558477c",
+  "sample_size_bytes": 116770,
+  "total_records": 252
 }
